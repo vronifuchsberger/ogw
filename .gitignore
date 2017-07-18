@@ -66,3 +66,15 @@ OGW_Project/DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+
+
+# Too large files
+OGW_Project/Content/Landscape/Foliage/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_N.uasset
+OGW_Project/Content/Landscape/Foliage/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_D_R.uasset
+OGW_Project/Content/Landscape/Foliage/KiteDemo/Environments/Trees/Tree_Stump_01/D_Tree_Stump_01_D_R.uasset
+OGW_Project/Content/Landscape/Foliage/KiteDemo/Environments/Rocks/Scree002/T_Scree002_N.uasset
+OGW_Project/Content/Landscape/Foliage/KiteDemo/Environments/Rocks/Scree002/T_Scree002_D_R.uasset
+OGW_Project/Content/Landscape/Foliage/KiteDemo/Environments/Rocks/Scree001/T_Scree_001_N.uasset
+OGW_Project/Content/Landscape/Foliage/KiteDemo/Environments/Rocks/Scree001/T_Scree_001_D_CC.uasset
+OGW_Project/Content/Landscape/Foliage/KiteDemo/Environments/Rocks/GroundRevealRock002/T_GroundRevealRock002_N.uasset
+
